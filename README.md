@@ -1,2 +1,3 @@
 # myfirstpage
-this is about my gsoc project
+this is about my personal information
+on my profile
